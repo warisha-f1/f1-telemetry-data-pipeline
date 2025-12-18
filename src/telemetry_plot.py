@@ -34,4 +34,4 @@ def plot_lap_telemetry(year, gp, driver):
     plt.show()
 
 if __name__ == "__main__":
-    plot_lap_telemetry(2024, 'Monaco', 'LEC') # Looking at Leclerc's winning lap
+    plot_lap_telemetry(2025, 'Japan', 'VER') # Looking at Leclerc's winning lap
