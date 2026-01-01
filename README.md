@@ -9,8 +9,13 @@ Delta Analysis: Synchronized time-gap calculation using distance-based interpola
 Crash-Proof: Automated data alignment to prevent ValueError and KeyError crashes.
 
 # Setup & Usage
-Install: pip install fastf1 matplotlib
+Install: 
+```bash
+pip install fastf1 matplotlib
 
-Run: python telemetry_plot.py
+# Run:
+```bash
+python telemetry_plot.py
 
-Configure: Change year/GP in the run_f1_analysis call at the bottom of the script.
+Configure:
+Change year/GP in the run_f1_analysis call at the bottom of the script.
